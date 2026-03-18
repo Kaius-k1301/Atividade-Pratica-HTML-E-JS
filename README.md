@@ -81,10 +81,3 @@ Tecnologias Utilizadas
 
 HTML5
 JavaScript (lógica e interatividade)
-
-
- Informações
-
-Instituição: SENAI São Paulo
-Data: Fevereiro de 2026
-Disciplina: Lógica de Programação / Desenvolvimento Web
